@@ -1,0 +1,32 @@
+nav{
+    background-color: black;
+    padding: 5;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3{
+    color: white;
+    padding: 3px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    padding: 10px;
+
+}
+
+li{
+    margin: 10px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
